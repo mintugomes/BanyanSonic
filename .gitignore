@@ -1,0 +1,59 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+
+# Build output
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Visual Studio working folder
+.vs/
+
+# ReSharper
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Backup & auto-generated files
+*.bak
+*.orig
+*.log
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# MSTest test results
+TestResults/
+*.VisualState.xml
+*.cache
+*.dbmdl
+
+# NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Others
+Thumbs.db
+Desktop.ini
+
+# Mac/Linux
+.DS_Store
+.AppleDouble
+.LSOverride
+ehthumbs.db
+Icon?
