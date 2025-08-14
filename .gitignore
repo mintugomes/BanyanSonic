@@ -1,5 +1,8 @@
 ## Ignore Visual Studio temporary files, build results, and user-specific files
 
+# Exclude sqlite-31.db
+Assets/sqlite-31.db
+
 # Build output
 **/bin/
 **/obj/
